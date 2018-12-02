@@ -40,3 +40,4 @@ $ git checkout 815d399
 ¿Qué comando o comandos usaste en el punto 33?
 $ git reset HARD 815d399 --> NO ENCUENTRO MI TITULO QUE LE PUSE --> Y ES QUE NO HABIA REALIZADO EL COMMIT DE MI TITULO!!!
 --> He vuelto a realizar mi titulo, para poder poner todos los tags.
+Al final, lo he dejado en el tag htmlify, que esta sin el título, y lo he subido al Github, sin el título, que tanto me ha costado por no realizar el commit la primera vez...
